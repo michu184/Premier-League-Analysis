@@ -35,6 +35,8 @@ The analysis covers:
 
 The project includes several interactive dashboards focused on different aspects of Premier League performance:
 
+## Power BI Dashboards
+
 ### 1. Premier League Overview
 
 General league statistics, including:
@@ -44,7 +46,9 @@ General league statistics, including:
 - Average points per match
 - Team performance overview
 - Match outcome structure by season
-- Most Goals in a single match
+- Most goals in a single match
+
+![Premier League Overview](screenshots/D1.png)
 
 ### 2. Team & Attacking Overview
 
@@ -57,6 +61,8 @@ Analysis of attacking performance, including:
 - Home vs. away goals
 - Most frequent scorelines
 
+![Team & Attacking Overview](screenshots/D2.png)
+
 ### 3. Defensive Overview
 
 Analysis of defensive performance, including:
@@ -67,15 +73,19 @@ Analysis of defensive performance, including:
 - Yellow cards and red cards
 - Top-performing teams in defensive statistics
 
+![Defensive Overview](screenshots/D3.png)
+
 ### 4. Championship & Domination
 
 Analysis of league dominance and championship performance, including:
+
 - Most points, wins, draws and losses
 - Championship titles by club
 - Champion's points by season
 - Champion's points vs. the rest of the league
 - Clubs most frequently appearing in the Top 3
 
+![Championship & Domination](screenshots/D4.png)
 
 ## SQL Analysis
 
