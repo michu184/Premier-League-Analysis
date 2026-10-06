@@ -15,6 +15,7 @@ The project combines SQL-based data analysis with interactive Power BI dashboard
 - **DAX** – calculated measures and KPIs
 - **GitHub** – project documentation and version control
 
+
 ## Analysis Areas
 
 The analysis covers:
@@ -43,7 +44,7 @@ General league statistics, including:
 - Average points per match
 - Team performance overview
 - Match outcome structure by season
-- Most Goals in a single Match
+- Most Goals in a single match
 
 ### 2. Team & Attacking Overview
 
@@ -52,7 +53,7 @@ Analysis of attacking performance, including:
 - Goals scored
 - Goals conceded
 - Goal difference
-- Hom vs. away points
+- Home vs. away points
 - Home vs. away goals
 - Most frequent scorelines
 
@@ -89,7 +90,22 @@ SQL was used to investigate the underlying match data and answer analytical ques
 - Most frequent scorelines
 - Defensive statistics
 
-The analysis includes aggregation, filtering, grouping, conditional logic, and calculations based on match results.
+The SQL analysis is divided into two parts:
+
+### Dashboard Analysis
+
+Folders **D1-D4** contain SQL queries directly related to the four Power BI dashboards. Each folder contains the analytical questions and queries used to support the corresponding dashboard.
+
+- **D1** – Premier League Overview
+- **D2** – Team & Attacking Overview
+- **D3** – Defensive Overview
+- **D4** – Championship & Domination
+
+### Additional SQL Practice
+
+The remaining SQL queries contain additional analytical questions and exercises completed during the project to practice SQL skills.
+
+The analysis includes aggregation, filtering, grouping, conditional logic, JOINs, subqueries, CTEs and window functions.
 
 ## Key Skills Demonstrated
 
