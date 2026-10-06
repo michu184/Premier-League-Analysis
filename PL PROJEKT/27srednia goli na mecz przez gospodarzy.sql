@@ -1,0 +1,4 @@
+SELECT
+ROUND(AVG(home_goals),2) AS AVERAGE_HOME_GOALS_PER_GAME
+FROM results
+
