@@ -34,7 +34,6 @@ The analysis covers:
 
 The project includes several interactive dashboards focused on different aspects of Premier League performance:
 
-## Power BI Dashboards
 
 ### 1. Premier League Overview
 
