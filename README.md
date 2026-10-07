@@ -12,7 +12,6 @@ The project combines SQL-based data analysis with interactive Power BI dashboard
 
 - **PostgreSQL** – data analysis and SQL queries
 - **Power BI** – data visualization and dashboard creation
-- **DAX** – calculated measures and KPIs
 - **GitHub** – project documentation and version control
 
 
