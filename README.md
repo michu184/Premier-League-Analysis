@@ -6,6 +6,8 @@ This project presents an analysis of Premier League match data using **SQL** and
 
 The goal of the project was to explore team performance, match outcomes, attacking and defensive statistics, and trends across Premier League seasons.
 
+**Data Range:** 2006/2007–2017/2018 (12 Premier League seasons).
+
 The project combines SQL-based data analysis with interactive Power BI dashboards to transform raw match data into meaningful insights.
 
 ## Tools & Technologies
