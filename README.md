@@ -30,6 +30,37 @@ The analysis covers:
 - Top-performing teams
 - Performance trends by season
 
+## SQL Analysis
+
+SQL was used to investigate the underlying match data and answer analytical questions related to:
+
+- Team points
+- Match results
+- Goals
+- Home and away performance
+- Championship results
+- Top-performing teams
+- Most frequent scorelines
+- Defensive statistics
+
+The SQL analysis is divided into two parts:
+
+### Dashboard Analysis
+
+Folders **D1-D4** contain SQL queries directly related to the four Power BI dashboards. Each folder contains the analytical questions and queries used to support the corresponding dashboard.
+
+- **D1** – Premier League Overview
+- **D2** – Team & Attacking Overview
+- **D3** – Defensive Overview
+- **D4** – Championship & Domination
+
+### Additional SQL Practice
+
+The remaining SQL queries contain additional analytical questions and exercises completed during the project to practice SQL skills.
+
+The analysis includes aggregation, filtering, grouping, conditional logic, JOINs, subqueries, CTEs and window functions.
+
+
 ## Power BI Dashboards
 
 The project includes several interactive dashboards focused on different aspects of Premier League performance:
@@ -85,35 +116,7 @@ Analysis of league dominance and championship performance, including:
 
 ![Championship & Domination](screenshots/D4.png)
 
-## SQL Analysis
 
-SQL was used to investigate the underlying match data and answer analytical questions related to:
-
-- Team points
-- Match results
-- Goals
-- Home and away performance
-- Championship results
-- Top-performing teams
-- Most frequent scorelines
-- Defensive statistics
-
-The SQL analysis is divided into two parts:
-
-### Dashboard Analysis
-
-Folders **D1-D4** contain SQL queries directly related to the four Power BI dashboards. Each folder contains the analytical questions and queries used to support the corresponding dashboard.
-
-- **D1** – Premier League Overview
-- **D2** – Team & Attacking Overview
-- **D3** – Defensive Overview
-- **D4** – Championship & Domination
-
-### Additional SQL Practice
-
-The remaining SQL queries contain additional analytical questions and exercises completed during the project to practice SQL skills.
-
-The analysis includes aggregation, filtering, grouping, conditional logic, JOINs, subqueries, CTEs and window functions.
 
 ## Key Skills Demonstrated
 
